@@ -43,8 +43,3 @@
 -   Определение и вывод категории ИМТ согласно классификации ВОЗ.
 -   Возможность повторного расчета или выхода из программы.
 -   Базовая проверка ввода (рост и вес должны быть больше 0).
-
-## Файлы проекта
-
--   `<mcfile name="main.go" path="z:\Projects\go\Learning\main.go"></mcfile>`: Основной файл программы, содержит функцию <mcsymbol name="main" filename="main.go" path="z:\Projects\go\Learning\main.go" startline="7" type="function"></mcsymbol> и логику пользовательского интерфейса.
--   `<mcfile name="imt_calculator.go" path="z:\Projects\go\Learning\imt_calculator.go"></mcfile>`: Содержит функции для расчета ИМТ (<mcsymbol name="calculateIMT" filename="imt_calculator.go" path="z:\Projects\go\Learning\imt_calculator.go" startline="10" type="function"></mcsymbol>), получения информации о категории ИМТ (<mcsymbol name="getIMTInfo" filename="imt_calculator.go" path="z:\Projects\go\Learning\imt_calculator.go" startline="17" type="function"></mcsymbol>) и получения пользовательского ввода (<mcsymbol name="getUserInput" filename="imt_calculator.go" path="z:\Projects\go\Learning\imt_calculator.go" startline="35" type="function"></mcsymbol>).
